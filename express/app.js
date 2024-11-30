@@ -3,9 +3,7 @@ import authd from './routes/auth.route.js'
 import cookieParser  from 'cookie-parser';
 import cors from 'cors'
 import confirm from './routes/confirm.route.js'
-
-
-
+ 
 const app = express();
 
 app.use(cors( {origin: process.env.CLIENT_URL , credentials:true }));
