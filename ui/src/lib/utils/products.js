@@ -45,6 +45,6 @@ export const products = [
       id: 8,
       name: 'Gym backpacks',
       price: 19.99,
-      imageUrl: 'https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/84/2154461/1.jpg?4442',
+      imageUrl: 'https://cdn.pixabay.com/photo/2017/07/02/19/24/dumbbells-2465478_1280.jpg',
     },
   ];
